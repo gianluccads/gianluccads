@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem-vindo(a) ao meu perfil ;) 
 
-<!--
-**gianluccads/gianluccads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gianlucca Santos
 
-Here are some ideas to get you started:
+- Tenho 15 anos
+- Estou na 2ª Série do EM
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos no [Alura](www.alura.com.br)
+  
+  ### Entre em contato comigo 📧 00001119534616sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ![](https://media1.tenor.com/m/lA422u4i4a8AAAAd/haikyuu-hinata-shoyo.gif)
+
+  > Escrito por **Gianlucca Santos**
+
+
